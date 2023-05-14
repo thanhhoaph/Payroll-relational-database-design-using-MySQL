@@ -22,6 +22,7 @@ After finalizing all the information I wanted for my payroll database, I used dr
 
 ## 3. Invent data and create database using MySQL command prompt
 There are totally 6 tables, codes used to create tables and insert data for each table as below. For inserting values to each table, I show here only one record as an example to make it simple for review.
+[Create database.txt](https://github.com/thanhhoaph/payroll/files/11473112/Create.database.txt)
 
 create database payroll;
 use payroll;
