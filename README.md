@@ -160,7 +160,7 @@ select first_name, phone_num
     -> where T1.emp_id = T2.emp_id and T1.dept_name = "Production";
 ```
 
-## 5. Team ackledgement
+## 5. Team acknowledgement
 As mentioned, at first this project was a group project, below is team members who contributed to the initial project.
 
 Fiorella Maza
