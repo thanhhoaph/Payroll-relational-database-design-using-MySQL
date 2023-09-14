@@ -1,4 +1,4 @@
-# Payroll database
+# Academic Project - Payroll database
 
 ## 1. Overview
 This project was a group project in my Business Analytics program. However, I decided to improve the project by refining and making some changes to the database design and database itself.
