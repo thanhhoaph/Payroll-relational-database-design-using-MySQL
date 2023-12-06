@@ -1,4 +1,4 @@
-# Academic Project - Payroll database
+# Payroll relational database
 
 ## 1. Overview
 This project was a group project in my Business Analytics program. However, I decided to improve the project by refining and making some changes to the database design and database itself.
@@ -21,7 +21,7 @@ After finalizing all the information I wanted for my payroll database, I used dr
 
 
 
-## 3. Invent data and create database using MySQL command prompt
+## 3. Invent data and create database using MySQL
 There are totally 6 tables, codes used to create tables and insert data for each table can be found in the file attached.
 
 [Create database.txt](https://github.com/thanhhoaph/payroll/files/11473112/Create.database.txt)
@@ -70,6 +70,9 @@ select first_name, phone_num
 As mentioned, at first this project was a group project, below is team members who contributed to the initial project.
 
 Fiorella Maza
+
 Megha Mohan
+
 Blessy Anish
+
 Anjana Rose
